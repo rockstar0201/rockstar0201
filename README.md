@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rockstar0201
+- 👋 Hi, I’m @gOlusharma
 - 👀 I’m interested in .data science/ML..
 - 🌱 I’m currently learning ..ML.
 - 💞️ I’m looking to collaborate on ...
