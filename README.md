@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gOlusharma
+- 👋 Hi, I’m @Atul Kumar Ranjan
 - 👀 I’m interested in .data science/ML..
 - 🌱 I’m currently learning ..ML.
 - 💞️ I’m looking to collaborate on ...
